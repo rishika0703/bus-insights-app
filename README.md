@@ -26,7 +26,6 @@ npm install
 npm start
 
 2️⃣ Backend Setup (Flask)
-```bash
 cd backend
 pip install flask flask-cors
 python app.py
