@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Annual day ",
+    "message": "buses will be available till 10:30pm"
+  },
+  {
+    "title": "driver is sick",
+    "message": "bus may be delayed"
+  },
+  {
+    "title": "route change",
+    "message": "instead of hitech-city the stop will be kompally"
+  },
+  {
+    "title": "delayed due to rain",
+    "message": "sorry for the inconveinence"
+  }
+]

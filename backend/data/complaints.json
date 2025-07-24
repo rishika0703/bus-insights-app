@@ -1,0 +1,4 @@
+{"bus_number": "123", "message": "testing"}
+{"bus_number": "123", "message": "the driver is late"}
+{"bus_number": "", "message": "bus is late"}
+{"bus_number": "", "message": "bus is late"}

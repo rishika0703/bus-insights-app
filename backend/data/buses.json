@@ -1,0 +1,32 @@
+{
+  "123": {
+    "route": "Madhapur to Secunderabad",
+    "driver": "Ramesh kumar",
+    "capacity": 50,
+    "current_passengers": 35,
+    "eta": "2 hour",
+    "stops": ["Hi-tech city", "Pragathinagar","Paradise", "Patny"],
+    "morning_pickup_time": "08:00 AM",
+    "morning_drop_time": "09:00 AM",
+    "evening_pickup_time": "05:00 PM",
+    "evening_drop_time": "06:00 PM",
+    "bus_incharge": "Suresh",
+    "incharge_contact": "9876543210",
+    "bus_type": "AC"
+  },
+  "456": {
+    "route": "Miyapur to Secunderabad",
+    "driver": "Anil Reddy",
+    "capacity": 50,
+    "current_passengers": 35,
+    "eta": "1 hour",
+    "stops": ["Hi-tech city", "Pragathinagar","Paradise", "Patny"],
+    "morning_pickup_time": "08:00 AM",
+    "morning_drop_time": "09:00 AM",
+    "evening_pickup_time": "05:00 PM",
+    "evening_drop_time": "06:00 PM",
+    "bus_incharge": "Suresh",
+    "incharge_contact": "9876543210",
+    "bus_type": "AC"
+  }
+}
