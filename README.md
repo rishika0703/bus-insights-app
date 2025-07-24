@@ -19,13 +19,15 @@
 - Reads data from local `.json` files (buses.json, complaints.json)
 
 ## 🚀 How to Run Locally
-1️⃣ Backend Setup (Flask)
+
+1️⃣ Frontend Setup (React)
+cd frontend
+npm install
+npm start
+
+2️⃣ Backend Setup (Flask)
 ```bash
 cd backend
 pip install flask flask-cors
 python app.py
 
-2️⃣ Frontend Setup (React)
-cd frontend
-npm install
-npm start
